@@ -4,11 +4,11 @@
 
 ## About Me [ 저에 대하여 ]
 
-I'm Kevin, a university student.  
+I'm Kevin.  
 I develop for despair and hope!
 <br>
 <br>
-저는 대학생 케빈이라고 합니다.
+저는 케빈이라고 합니다.
 저는 절망을 위하여 희망을 위해 개발합니다!
 
 ## Connect with Me  [ SNS 관련하여 ]
